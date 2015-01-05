@@ -114,13 +114,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037754_0000_100F457BAAFB3450"/>
-            <pb facs="tcp:037754_0001_100F26EB1F574508" rendition="simple:additions"/>
+            <pb facs="unknown:037754_0000_100F457BAAFB3450"/>
+            <pb facs="unknown:037754_0001_100F26EB1F574508"
+                rendition="simple:additions"/>
             <p>INDIGENCE, AND NOBLENESS OF MIND. A COMEDY IN FIVE ACTS, From the German of KOTZEBUE.</p>
             <p>NEW-YORK: PRINTED FOR CHARLES SMITH AND S. STEPHENS. 1800.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037754_0002_100F44FD5085C450"/>
+            <pb facs="unknown:037754_0002_100F44FD5085C450"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>
@@ -153,7 +154,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037754_0003_100F44FEDBA79700"/>
+            <pb facs="unknown:037754_0003_100F44FEDBA79700"/>
             <head>INDIGENCE AND NOBLENESS OF MIND.</head>
             <div n="1" type="act">
                <head>ACT I. SCENE I. A Parlour: at the back are Doors with glass Pannels, through which is discovered a large Compting-House, where several clerks are writing.</head>
@@ -181,7 +182,7 @@
                <sp>
                   <speaker>V. Sn</speaker>
                   <p>Who says I'm angry?—Rascal, if you did not know the sweetness of my temper, you would not dare to open your lips: always trying to vex me and spoil my temper! But I <hi>will</hi> be quite happy and easy, I'm deter<g ref="char:EOLhyphen"/>mined,
-<pb n="4" facs="tcp:037754_0004_100F4501D80F1A78"/>
+<pb n="4" facs="unknown:037754_0004_100F4501D80F1A78"/>
 in spite of you all. I'll be placid—I'll be serene, —I'll be meek—I'll be— <stage>(turns to the table and speaks in a passion)</stage>—plague on you—what do you bring me this heap of dry rolls for? Fetch a muffin.</p>
                </sp>
                <sp>
@@ -249,7 +250,7 @@ going away for, before I have done speaking? Probably Mr. Adel<g ref="char:EOLhy
 Laced liveries!— no, no—solid comfort for me. Oh, here's my lodger.</p>
                </sp>
                <stage>
-                  <pb n="5" facs="tcp:037754_0005_100F4503A0561F38"/>
+                  <pb n="5" facs="unknown:037754_0005_100F4503A0561F38"/>
                   <hi>Enter</hi> ADELBERT, <hi>in a Polish dress.</hi>
                </stage>
                <sp>
@@ -329,7 +330,7 @@ Well then, I owe, Sir, already a debt to you; I come to ask your permission to e
                   <p>It is with the utmost reluctance I venture on this freedom;—but you would greatly oblige me by honoring my draft for twenty pounds.</p>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:037754_0006_100F450678DD6B38"/>
+                  <pb n="6" facs="unknown:037754_0006_100F450678DD6B38"/>
                   <speaker>V. Sn.</speaker>
                   <p>
                      <stage>(staring at him)</stage>
@@ -430,7 +431,7 @@ is the only one I am able to offer. It is set with a few brilliants, of no great
                <sp>
                   <speaker>V. Sn.</speaker>
                   <p>Twenty pounds! twenty devils. I had yester<g ref="char:EOLhyphen"/>day two bankruptcies in my books—one of my ships from Africa lost, with a cargo of 400 blacks on board—besides the parson's widow, Mrs. Rose and her daughter, whom I
-<pb n="7" facs="tcp:037754_0007_100F450806356AA0"/>
+<pb n="7" facs="unknown:037754_0007_100F450806356AA0"/>
 maintain, as you know, in the house. I won't say what they cost me, because that's charity—but I know I have a tender heart and a sweet temper, that would be my ruin, if I did not watch my purse at both ends. But come—if I can't lend you my money, I'll give you my advice. Go to Levi, the great Jew, and he'll lend you, on the picture nearly its full value.</p>
                </sp>
                <sp>
@@ -499,7 +500,7 @@ I ex<g ref="char:EOLhyphen"/>pect to see my son in law every hour, and I shall w
                   </p>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:037754_0008_100F450A387717E8"/>
+                  <pb n="8" facs="unknown:037754_0008_100F450A387717E8"/>
                   <speaker>V. Sn.</speaker>
                   <p>May not I call her Mrs. Homily if I choose it? Plague on it, I must not have my jokes now in my own house.</p>
                </sp>
@@ -565,7 +566,7 @@ What's the kitchen to me, provided there be plenty on the table? Next, I suppose
 <stage>Exit Mrs. Rose.</stage>
                   </p>
                   <stage>
-                     <pb n="9" facs="tcp:037754_0009_100F450BDE978EE8"/>TOTUM <hi>without.</hi>
+                     <pb n="9" facs="unknown:037754_0009_100F450BDE978EE8"/>TOTUM <hi>without.</hi>
                   </stage>
                   <p>Three bales of goods to Van Cormack and Co—Right.</p>
                </sp>
@@ -638,7 +639,7 @@ Congratulate—this is a day—this is an hour—day fourteen—month April—ho
                <sp>
                   <speaker>Tot.</speaker>
                   <p>Worth more or less, twelve hundred and ninety-nine
-<pb n="10" facs="tcp:037754_0010_100F450FA3F13BA0"/>
+<pb n="10" facs="unknown:037754_0010_100F450FA3F13BA0"/>
 dollars, three guldens, eighteen stivers, one groot, and three pfennings.</p>
                </sp>
                <sp>
@@ -730,7 +731,7 @@ What! your<g ref="char:EOLhyphen"/>self?</p>
                <sp>
                   <speaker>Tot.</speaker>
                   <p>Died twenty-fifth instant, four in the morning, fifty-nine minutes, and three seconds, aged seventy eight
-<pb n="11" facs="tcp:037754_0011_100F45112D2A8BB8"/>
+<pb n="11" facs="unknown:037754_0011_100F45112D2A8BB8"/>
 years, four months, two weeks, five days, fourteen hours, and a quarter—left to Tilman Totum, sole heir, eighty thousand marks.</p>
                </sp>
                <sp>
@@ -837,7 +838,7 @@ I shall get rid of a boarder, whom I took into my house to please my daughter. B
                   <p>Little rogue! loves me—secretly.</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:037754_0012_100F451371C66E80"/>
+                  <pb n="12" facs="unknown:037754_0012_100F451371C66E80"/>
                   <speaker>V. <hi>Sn.</hi>
                   </speaker>
                   <p>Secretly!</p>
@@ -913,7 +914,7 @@ I suppose, are dying too—you are a woman too, eh, Louisa?</p>
                   <p>Well, there's a grand dinner to-day, and the grand dinner has its grand reasons.</p>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:037754_0013_100F451516D980A8"/>
+                  <pb n="13" facs="unknown:037754_0013_100F451516D980A8"/>
                   <speaker>Jos.</speaker>
                   <p>Must we put on our best gowns?</p>
                </sp>
@@ -1047,7 +1048,7 @@ Does he cost much?</p>
                <sp>
                   <speaker>Jos.</speaker>
                   <p>Suppose he should not like me, and suppose we
-<pb n="14" facs="tcp:037754_0014_100F4518AFC00790"/>
+<pb n="14" facs="unknown:037754_0014_100F4518AFC00790"/>
 should quarrel, and suppose I should scratch his eyes out before the wedding?</p>
                </sp>
                <sp>
@@ -1105,7 +1106,7 @@ If I had not the sweetest temper in the world, these silly girls would contrive 
                <sp>
                   <speaker>Loui.</speaker>
                   <p>Yesterday he got my last letter. When I sat down to it, Josephine, my heart was quite full:—and I
-<pb n="15" facs="tcp:037754_0015_100F451A397F3530"/>
+<pb n="15" facs="unknown:037754_0015_100F451A397F3530"/>
 beg'd so hard to see him; and the words were, all, so blotted, he must have seen that I cried all the while I was writing it. I fancied in the evening he looked more thoughtful than ever. Perhaps he may be brought to give his consent to see me at last. Don't you think he might, Josephine?</p>
                </sp>
                <sp>
@@ -1154,7 +1155,7 @@ You must have occasion for money—yet you ask for none—I therefore inclose yo
                   <p>Poverty! Oh, that's a word the heart knows no<g ref="char:EOLhyphen"/>thing about.</p>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:037754_0016_100F451C774A4818"/>
+                  <pb n="16" facs="unknown:037754_0016_100F451C774A4818"/>
                   <speaker>Mrs. R.</speaker>
                   <p>Because the heart knows nothing about hun<g ref="char:EOLhyphen"/>ger and thirst. Want is a very bad companion; and you may thank your father for never letting you know it. See how much the note is for, that he has sent you.</p>
                </sp>
@@ -1197,7 +1198,7 @@ three hundred crowns! I wish they were three thousand, with all my heart.</p>
                <trailer>END OF THE FIRST ACT.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="17" facs="tcp:037754_0017_100F451E11B23660"/>
+               <pb n="17" facs="unknown:037754_0017_100F451E11B23660"/>
                <head>ACT II. An Apartment in VAN SNARL'S House.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1284,7 +1285,7 @@ Nay, how can that happen.</p>
                      <p>Money not wealth?—What nonsense you talk! —Pray what is wealth then?</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037754_0018_100F45219D3CC1A8"/>
+                     <pb n="18" facs="unknown:037754_0018_100F45219D3CC1A8"/>
                      <speaker>Leop.</speaker>
                      <p>The free and liberal use we make of it. Wealth, brother, is like a sword, placed in various hands. Fools are laughed at for their ignorance in using it; knaves, who grasp it, hurt their neighbours with it; wise and be<g ref="char:EOLhyphen"/>nevolent men, alone, know how to guard themselves with it, while they protect the weak, who want their assistance.</p>
                   </sp>
@@ -1365,7 +1366,7 @@ Let me beseech you, bro<g ref="char:EOLhyphen"/>ther, no mention of that subject
                      </p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:037754_0019_100F452328B6F940"/>
+                     <pb n="19" facs="unknown:037754_0019_100F452328B6F940"/>
                      <speaker>V. Sn.</speaker>
                      <p>There he goes again. Was ever any man so uncivilly treated in his own house as I am! a silly fellow, making such a perpetual wimpering for the loss of one wife!—I have buried three, one after the other, without breaking my heart. That's the difference between Leo<g ref="char:EOLhyphen"/>pold and me—he carries his remembranee of his wife a<g ref="char:EOLhyphen"/>bout in his mind, and I carry mine in my pockets.</p>
                   </sp>
@@ -1421,7 +1422,7 @@ Let me beseech you, bro<g ref="char:EOLhyphen"/>ther, no mention of that subject
                      <p>The bridegroom! I must have pigeons and a cake.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:037754_0020_100F4525651A0430"/>
+                     <pb n="20" facs="unknown:037754_0020_100F4525651A0430"/>
                      <speaker>Tot.</speaker>
                      <p>And, thirdly—Mrs. Rose—sweet Mrs. Rose— you may take into account a second wedding.</p>
                   </sp>
@@ -1497,7 +1498,7 @@ Let me beseech you, bro<g ref="char:EOLhyphen"/>ther, no mention of that subject
 Matrimony?</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:037754_0021_100F4527217CA5A8"/>
+                     <pb n="21" facs="unknown:037754_0021_100F4527217CA5A8"/>
                      <speaker>Tot.</speaker>
                      <p>Yes—open a new firm, raise a new head.</p>
                   </sp>
@@ -1586,7 +1587,7 @@ Your daughter, I conclude—</p>
                   <sp>
                      <speaker>Tot.</speaker>
                      <p>Express. But, if I may debit my head with the
-<pb n="22" facs="tcp:037754_0022_100F452AC6244FB8"/>
+<pb n="22" facs="unknown:037754_0022_100F452AC6244FB8"/>
 daughter, and credit by the mother's consent, that will be a pretty clear account.</p>
                   </sp>
                   <sp>
@@ -1645,7 +1646,7 @@ which I am sure you never will.</p>
                                     <l>When planets strike, and spells have pow'r</l>
                                     <l>And mandrakes cleave the ground:</l>
                                     <l>
-                                       <pb n="23" facs="tcp:037754_0023_100F452C4F481818"/>I heard a voice as from the tomb,</l>
+                                       <pb n="23" facs="unknown:037754_0023_100F452C4F481818"/>I heard a voice as from the tomb,</l>
                                     <l>The bell then beating one;</l>
                                     <l>"Adieu," it cried, "I meet my doom,</l>
                                     <l>"My life's last sand is run."</l>
@@ -1725,7 +1726,7 @@ Your friend's generous heart is ever ready to welcome the unfortunate,</p>
                      <stage>(JOSEPHINE, LOUISA, <hi>and</hi> ADELBERT, <hi>converse in dumb shew;</hi> TOTUM <hi>appears to be whispering to Mrs.</hi> ROSE.)</stage>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:037754_0024_100F452DDB3F6B08"/>
+                     <pb n="24" facs="unknown:037754_0024_100F452DDB3F6B08"/>
                      <speaker>Tot.</speaker>
                      <p>
                         <stage>(in a low voice.)</stage>
@@ -1833,7 +1834,7 @@ Note consent?</p>
                      <p>Indeed, Mr. Totum, you are very good; but I am not my own mistress, you know.</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:037754_0025_100F4530627263D0"/>
+                     <pb n="25" facs="unknown:037754_0025_100F4530627263D0"/>
                      <speaker>Tot.</speaker>
                      <p>Oh! I have got your mother's consent posted al<g ref="char:EOLhyphen"/>ready.</p>
                   </sp>
@@ -1932,7 +1933,7 @@ Your servant, Sir; please to check account between these ladies and me.</p>
                      <p>To be sure. Fortune leads to comfort.</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:037754_0026_100F453348B04610"/>
+                     <pb n="26" facs="unknown:037754_0026_100F453348B04610"/>
                      <speaker>Leop.</speaker>
                      <p>
                         <stage>(<hi>recollecting himself</hi>)</stage>
@@ -2016,7 +2017,7 @@ I supposed as much. Methinks a girl that has nothing but a smooth face to recomm
                      <p>I gave it to Josephine.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037754_0027_100F4535893DFF50"/>
+                     <pb n="27" facs="unknown:037754_0027_100F4535893DFF50"/>
                      <speaker>Jos.</speaker>
                      <p>And I handed it round to the company.</p>
                   </sp>
@@ -2106,7 +2107,7 @@ If that is meant as a joke, Sir, it is, without under-rating it, a very clumsy o
                      <p>Hold! do you know what it is to charge a gen<g ref="char:EOLhyphen"/>tleman thus, brother?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037754_0028_100F4537CD4172A8"/>
+                     <pb n="28" facs="unknown:037754_0028_100F4537CD4172A8"/>
                      <speaker>V. Sn.</speaker>
                      <p>What do I care for a gentleman, when he hops off with my snuff-box?</p>
                   </sp>
@@ -2187,7 +2188,7 @@ Ha! Louisa the defender of Adelbert!</p>
                <trailer>END OF THE SECOND ACT.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="29" facs="tcp:037754_0029_100F453A0A8FB088"/>
+               <pb n="29" facs="unknown:037754_0029_100F453A0A8FB088"/>
                <head>ACT III. An Apartment in VAN SNARL'S House.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -2247,7 +2248,7 @@ By Louisa!— Let all be forgotten—</p>
                   <sp>
                      <speaker>Leop.</speaker>
                      <p>Yes, for I would make my enquiry as a man; who, though he shut himself from the bustle of the world,
-<pb n="30" facs="tcp:037754_0030_100F453D075E46B8"/>
+<pb n="30" facs="unknown:037754_0030_100F453D075E46B8"/>
 as I do, should never lock up the kind impulses of his heart towards a fellow creature.</p>
                   </sp>
                   <sp>
@@ -2320,7 +2321,7 @@ Young man, we must be better acquainted. Yet that cannot be without more confide
                      <p>Who yet chose rather to bear the harsh suspicion that wronged you, than submit to that pity, which; however painful to you, would have exulted in your relief.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037754_0031_100F453E909BFBD0"/>
+                     <pb n="31" facs="unknown:037754_0031_100F453E909BFBD0"/>
                      <speaker>Adel.</speaker>
                      <p>Perhaps I acted from prejudice—but let me con<g ref="char:EOLhyphen"/>fess my pride. Had one contemptuous glance fallen on the humble pittance which I bore about me—had any one but smiled—</p>
                   </sp>
@@ -2375,7 +2376,7 @@ Yonder comes Louisa—let me see you again. At another time if the recital be no
                      <p>Because poverty, which in general silences the feelings, is not always master over the heart.</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:037754_0032_100F454060F685B8"/>
+                     <pb n="32" facs="unknown:037754_0032_100F454060F685B8"/>
                      <speaker>Loui.</speaker>
                      <p>But the poor have hearts like other people—and when the heart is good, why should poverty silence it?</p>
                   </sp>
@@ -2456,7 +2457,7 @@ for Africa!</p>
                   <sp>
                      <speaker>V. Sn.</speaker>
                      <p>You shall not be at a farthing expence. I am determined to do the thing handsomely. I'll freight her
-<pb n="33" facs="tcp:037754_0033_100F4541ED1DA6F0"/>
+<pb n="33" facs="unknown:037754_0033_100F4541ED1DA6F0"/>
 myself; you shall only have to purchase negroes— <stage>(Adel. shudders)</stage>
 What is the matter with you?</p>
                   </sp>
@@ -2516,7 +2517,7 @@ What is the matter with you?</p>
                      <p>Would you listen with patience to my story, if I should disclose it to you, and you alone?</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037754_0034_100F4546583F1F70"/>
+                     <pb n="34" facs="unknown:037754_0034_100F4546583F1F70"/>
                      <speaker>Loui.</speaker>
                      <p>With patience! Ah! I wish you would try.</p>
                   </sp>
@@ -2570,7 +2571,7 @@ I am not the orphan of a clergyman.</p>
                      <p>The <hi>poor</hi> Adelbert dared to lift his eyes to the poor Louisa. The <hi>rich</hi> Louisa is lost to him—Honor is my tyrant—I obey, against my will—but I obey. Ah! Louisa!</p>
                   </sp>
                   <stage>
-                     <pb n="35" facs="tcp:037754_0035_100F45489A1F7830"/>
+                     <pb n="35" facs="unknown:037754_0035_100F45489A1F7830"/>
                      <hi>Enter</hi> JOSEPHINE.</stage>
                   <sp>
                      <speaker>Jos.</speaker>
@@ -2646,7 +2647,7 @@ You are a good-natur'd soul, and you know what a plague it is to share a fortune
                   <stage>Exit Louisa and Jos.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="36" facs="tcp:037754_0036_100F454AE04BAB70"/>
+                  <pb n="36" facs="unknown:037754_0036_100F454AE04BAB70"/>
                   <head>SCENE II. A Hall in Van Snarl's house.</head>
                   <stage>
                      <hi>Enter</hi> NICOLAS, <hi>laughing.</hi>
@@ -2704,7 +2705,7 @@ You are a good-natur'd soul, and you know what a plague it is to share a fortune
                      <p>My—my name is Louisa Rose. I am a poor clergyman's orphan, who live in this house. Perhaps you have business with Mr. Van Snarl?</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037754_0037_100F454DE18B0940"/>
+                     <pb n="37" facs="unknown:037754_0037_100F454DE18B0940"/>
                      <speaker>H. Wil.</speaker>
                      <p>But I have with his daughter?</p>
                   </sp>
@@ -2816,7 +2817,7 @@ You are a good-natur'd soul, and you know what a plague it is to share a fortune
                   <sp>
                      <speaker>Jos.</speaker>
                      <p>Oh, it's nothing at all to me, to be sure—only for
-<pb n="38" facs="tcp:037754_0038_100F45510656F0A8"/>
+<pb n="38" facs="unknown:037754_0038_100F45510656F0A8"/>
 my friend's sake.
 <stage>(<hi>Aside</hi>)</stage>
 So I had nearly betrayed my<g ref="char:EOLhyphen"/>sell.—Do you wish to see my father, Sir?</p>
@@ -2911,7 +2912,7 @@ Here's a pretty fellow!—My daughter tells me you desire to speak with me.</p>
                      <p>I have a letter to you from my father—The deuce! I have left that plaguy letter at the inn.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:037754_0039_100F45528EB42130"/>
+                     <pb n="39" facs="unknown:037754_0039_100F45528EB42130"/>
                      <speaker>V. Sn.</speaker>
                      <p>There you may leave it then.</p>
                   </sp>
@@ -2997,7 +2998,7 @@ Here's a pretty fellow!—My daughter tells me you desire to speak with me.</p>
                   <sp>
                      <speaker>Leop</speaker>
                      <p>He is in the right—but I dare not open my heart
-<pb n="40" facs="tcp:037754_0040_100F4554D550AA40"/>
+<pb n="40" facs="unknown:037754_0040_100F4554D550AA40"/>
 to him. He would not understand it. Could I indeed find the bosom of a friend!</p>
                   </sp>
                   <stage>
@@ -3095,7 +3096,7 @@ to him. He would not understand it. Could I indeed find the bosom of a friend!</
 Who says so? Those with whom she lives—and must live yet for a short time—are excellent people.</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:037754_0041_100F455670CFBA40"/>
+                     <pb n="41" facs="unknown:037754_0041_100F455670CFBA40"/>
                      <speaker>Loui.</speaker>
                      <p>But they are not her parents. She does not find the care of a fond mother.</p>
                   </sp>
@@ -3159,7 +3160,7 @@ Pity my sorrows</p>
                   <sp>
                      <speaker>Mrs. R.</speaker>
                      <p>Oh, I don't wish to know—somebody said it
-<pb n="42" facs="tcp:037754_0042_100F4558AE56AFA8"/>
+<pb n="42" facs="unknown:037754_0042_100F4558AE56AFA8"/>
 was our Polish lodger—but heav'n forbid!—a couple of wild wretches—I'm certain they never read my husband's sermon on duelling—the last sermon my poor dear Dr. Olearius ever preached—</p>
                   </sp>
                   <sp>
@@ -3214,7 +3215,7 @@ was our Polish lodger—but heav'n forbid!—a couple of wild wretches—I'm cer
                      <speaker>Loui.</speaker>
                      <p>No, he is not coming; I am safe for a few min<g ref="char:EOLhyphen"/>utes at least—poor soul! he is wounded, and perhaps he can't come home yet—he will want a great many things, which money can procure for him—so let me make haste and give him all I have.
 <stage>(<hi>she takes the bill of exchange
-<pb n="43" facs="tcp:037754_0043_100F455BB91ECD80"/>
+<pb n="43" facs="unknown:037754_0043_100F455BB91ECD80"/>
 from her bosom</hi>)</stage>
 Now where shall I put this note, that he may see it directly? On the table—no, it won't be safe—
 <stage>(<hi>tries to open the box on the table</hi>)</stage>
@@ -3244,7 +3245,7 @@ Eh! what is this! the very bill I sent by yesterday's post to my daughter! how c
 <stage>(<hi>discovers suspicion and horror</hi>)</stage>— could not have re<g ref="char:EOLhyphen"/>course to means, I shudder even to think of!—at least 'tis ground of reasonable suspicion—Shall I take back the note? —No! What right have I to take out of a stranger's chest, a paper, which I sent to Frankfort fifteen hours since!—a perfect riddle! I'll leave it where I found it
 <stage>(puts the note again in the box)</stage>
 my money too shall stay where it was— <stage>(puts the roleau in his pocket)</stage>
-                        <pb n="44" facs="tcp:037754_0044_100F455E26B9CD98"/>
+                        <pb n="44" facs="unknown:037754_0044_100F455E26B9CD98"/>
 and now back to my solitary chamber, till some fortu<g ref="char:EOLhyphen"/>nate conjecture shall make me once more hope that man is not altogether hateful!
 <stage>Exit Leopold.</stage>
                      </p>
@@ -3294,7 +3295,7 @@ I am frighten'd out of my wits—he does not perceive me, and I'll seize this mo
                      <p>
                         <stage>(returns)</stage>
 Egad, he's a deep one. Where can he keep the balance sheet? must have private books somewhere— <stage>(sees the box on the table)</stage>—Oh, ho! here
-<pb n="45" facs="tcp:037754_0045_100F45606DA24428"/>
+<pb n="45" facs="unknown:037754_0045_100F45606DA24428"/>
 we have him—now see contents—now we'll detect the spy— <stage>(takes out the bill of exchange and reads.)</stage>
 "On demand pay to this my order, the sum of three hundred crowns." Accepted too! As good as Bank—ah, your spies must have the wherewith
 <stage>(<hi>reads again</hi>)</stage>
@@ -3320,7 +3321,7 @@ I have open'd a fine head of account here. Where shall I put the note? Here is a
                   </sp>
                   <stage>(<hi>Opens the trunk, flings the note into it, and shuts it again.</hi>)</stage>
                   <stage>
-                     <pb n="46" facs="tcp:037754_0046_100F4562B8AB4360"/>
+                     <pb n="46" facs="unknown:037754_0046_100F4562B8AB4360"/>
                      <hi>Enter</hi> ADELBERT <hi>and</hi> HANS WILLIAM.</stage>
                   <sp>
                      <speaker>Tot.</speaker>
@@ -3407,7 +3408,7 @@ I am glad to find our friend so little damaged, Sir. I wish you a good afternoon
                      <p>Stay, Sir; I could not pardon myself, if I did not declare to every one the noble assistance I have receiv<g ref="char:EOLhyphen"/>ed from that gentleman.</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:037754_0047_100F4565109A2710"/>
+                     <pb n="47" facs="unknown:037754_0047_100F4565109A2710"/>
                      <speaker>Tot.</speaker>
                      <p>Another time I shall be happy to attend—I wish you a good afternoon, Sir.</p>
                   </sp>
@@ -3481,7 +3482,7 @@ There, it is dress'd. Mr. Totum, be so good to lift the lid of that trunk, and t
                      <p>Sir! take out!—excuse me, sir, I never take any thing out of other people's trunks.</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:037754_0048_100F45669C0589C8"/>
+                     <pb n="48" facs="unknown:037754_0048_100F45669C0589C8"/>
                      <speaker>Adel.</speaker>
                      <p>You see my hands are engaged. If you will be so obliging to tie the ribbon, which you will find there, round my wrist, by to-morrow the whole story will be forgotten.</p>
                   </sp>
@@ -3567,7 +3568,7 @@ we'll have you taken up for forgery, and <hi>lift you from the ground</hi> prese
                      <p>Certainly one would be very glad to take three hundred crowns—but—but—</p>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:037754_0049_100F45686FA27540"/>
+                     <pb n="49" facs="unknown:037754_0049_100F45686FA27540"/>
                      <speaker>"Adel.</speaker>
                      <p>It is your property." You owned you put it into my trunk.</p>
                   </sp>
@@ -3655,7 +3656,7 @@ I wish you a good afternoon, Sir. I see the door's open, and so—egad, here's a
 Louisa Rose!</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:037754_0050_100F456AF91ED938"/>
+                     <pb n="50" facs="unknown:037754_0050_100F456AF91ED938"/>
                      <speaker>H. Wil.</speaker>
                      <p>Do you know her?</p>
                   </sp>
@@ -3773,7 +3774,7 @@ If you can<g ref="char:EOLhyphen"/>not make an answer for me to that question, I
                      <p>Eh!—I begin to suspect some mistake—let us examine, if you please.</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:037754_0051_100F456E9FA3F9C0"/>
+                     <pb n="51" facs="unknown:037754_0051_100F456E9FA3F9C0"/>
                      <speaker>Adel.</speaker>
                      <p>You came to this house to marry Louisa—</p>
                   </sp>
@@ -3828,7 +3829,7 @@ One word before I go, my dear new friend—You perceive I am likely to have some
                <trailer>END OF THE FOURTH ACT.</trailer>
             </div>
             <div n="5" type="act">
-               <pb n="52" facs="tcp:037754_0052_100F45702D253488"/>
+               <pb n="52" facs="unknown:037754_0052_100F45702D253488"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>SCENE I. A Hall in Van Snarl's House.</head>
@@ -3891,7 +3892,7 @@ One word before I go, my dear new friend—You perceive I am likely to have some
                      <p>Child, I have a great many excellent wound balsams—but <hi>I</hi> step up into the young man's room!— You know before one has come to a certain age—</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:037754_0053_100F45731D7CF728"/>
+                     <pb n="53" facs="unknown:037754_0053_100F45731D7CF728"/>
                      <speaker>Loui.</speaker>
                      <p>A certain age!—and what does that signify? I think at any time of life we should give our help to a fel<g ref="char:EOLhyphen"/>low creature, when it is wanted.</p>
                   </sp>
@@ -3982,7 +3983,7 @@ Josephine! Josephine!</p>
 Well, my dear Louisa Roses, inform me where I may find the real genuine Josephine?</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037754_0054_100F4575AAAC0AB0"/>
+                     <pb n="54" facs="unknown:037754_0054_100F4575AAAC0AB0"/>
                      <speaker>Jos.</speaker>
                      <p>What is your pleasure, sir, with her?</p>
                   </sp>
@@ -4095,7 +4096,7 @@ Well, my dear Louisa Roses, inform me where I may find the real genuine Josephin
                   <sp>
                      <speaker>Jos.</speaker>
                      <p>Without letting me know who you are! When
-<pb n="55" facs="tcp:037754_0055_100F4578080AE238"/>
+<pb n="55" facs="unknown:037754_0055_100F4578080AE238"/>
 a man intends to rob an honest girl of her name, he should at least provide her with another.</p>
                   </sp>
                   <sp>
@@ -4206,7 +4207,7 @@ a man intends to rob an honest girl of her name, he should at least provide her 
                      <p>Oh, then you may be endur'd.</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:037754_0056_100F4579ECAB0730"/>
+                     <pb n="56" facs="unknown:037754_0056_100F4579ECAB0730"/>
                      <speaker>H. Wil.</speaker>
                      <p>I hope so—and now it's your turn to tell your faults.</p>
                   </sp>
@@ -4351,7 +4352,7 @@ a man intends to rob an honest girl of her name, he should at least provide her 
                      <p>And I shall have no company but those whom you invite.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:037754_0057_100F26E858DF08F0"/>
+                     <pb n="57" facs="unknown:037754_0057_100F26E858DF08F0"/>
                      <speaker>H. Wil.</speaker>
                      <p>Well—so far we proceed cordially—but I have one bad habit, I own, not so easy to be got rid of— you will overlook it, I dare say—I cannot help falling in love with every pretty woman I see.</p>
                   </sp>
@@ -4449,7 +4450,7 @@ Come along my charming girl, I'll obtain your father's leave, to do every thing 
                      <hi>Enter</hi> LEOPOLD, <hi>musing.</hi>
                   </stage>
                   <p>An hour has nearly passed, and Louisa will presently be here. For the first time, since fifteen years have elap<g ref="char:EOLhyphen"/>sed,
-<pb n="58" facs="tcp:037754_0058_100F45800F034300"/>
+<pb n="58" facs="unknown:037754_0058_100F45800F034300"/>
 the foot of a stranger will tread this sancturay of my sorrows—for the first time my heart will open itself to sympathy, and the tears of another being will be mixed with mine. I feel myself unaccountably attracted to<g ref="char:EOLhyphen"/>wards that good girl. Hark! she is come.</p>
                   <stage>LOUISA <hi>opens the door, and enters timorously.</hi>
                   </stage>
@@ -4514,7 +4515,7 @@ the foot of a stranger will tread this sancturay of my sorrows—for the first t
                      <p>Why did you not inform me of this sooner?</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:037754_0059_100F4582457BF9F8"/>
+                     <pb n="59" facs="unknown:037754_0059_100F4582457BF9F8"/>
                      <speaker>Loui.</speaker>
                      <p>Because I know how earnestly your poor child sighs for her father's love—because I could find no rea<g ref="char:EOLhyphen"/>son why you should be so severe towards her—and because I wanted to observe you first, and learn on what account it was you hated her.</p>
                   </sp>
@@ -4565,7 +4566,7 @@ I—I hope I may believe you.</p>
                   <sp>
                      <speaker>Leop.</speaker>
                      <p>I bless it.—Hear me, Louisa, censure me, but pity and excuse me. I was once rich, for I possessed in a virtuous wife, the only true riches in this world, Con<g ref="char:EOLhyphen"/>tent and Cheerfulness. When the Creator finished his glorious work of nature, he added its last bright ornament, Woman! I loved one alone, among all beings:—I had chosen her from a world, and from a world I would still choose her. The years of our first love fell swiftly into that eternity where she now resides. The birth of a
-<pb n="60" facs="tcp:037754_0060_100F4583D5A18578"/>
+<pb n="60" facs="unknown:037754_0060_100F4583D5A18578"/>
 daughter was the dearest and last moment of my happi<g ref="char:EOLhyphen"/>ness. Scarcely had she beheld the light<g ref="char:punc">▪</g> when her mo<g ref="char:EOLhyphen"/>ther died— <stage>(<hi>Louisa appears affected</hi>)</stage>
 her infant cries were the dirge of all my joys on earth.</p>
                   </sp>
@@ -4603,7 +4604,7 @@ I have never returned to my child.</p>
                      <p>Such as you see me now possess. But here has fan<g ref="char:EOLhyphen"/>cy furnished me with ample food for sadness—here have I framed a sacred record of my beloved Emilia—here I gathered every remember'd object, that had been dear to her—yes—here her spirit dwells; here often in my thoughts has communed with me—Else, how could I have endured so much?
 <stage>[<hi>During these last lines,</hi> LEOPOLD <hi>takes</hi> LOUISA'<hi>s hand with great emotion, and leads her towards the door of the cabinet—stops suddenly.</hi>)</stage>
 Wilt thou not tremble, girl? Yet, 'tis imagination fills
-<pb n="61" facs="tcp:037754_0061_100F458587579BB0"/>
+<pb n="61" facs="unknown:037754_0061_100F458587579BB0"/>
 the scene—all is but shew—the mockery of my heart's pangs.—</p>
                   </sp>
                   <stage>
@@ -4677,7 +4678,7 @@ but I guess by whom it was bestow'd. That glowing cheek, that down-cast look dis
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="62" facs="tcp:037754_0062_100F45886FAB8D60"/>
+                  <pb n="62" facs="unknown:037754_0062_100F45886FAB8D60"/>
                   <head>SCENE III. The Hall.</head>
                   <stage>
                      <hi>Enter</hi> TOTUM, <hi>in a great bustle, and</hi> NICOLAS.</stage>
@@ -4752,7 +4753,7 @@ You would be a rogue and a thief—</p>
                      <p>And must never more have put my foot over the threshold—</p>
                   </sp>
                   <sp>
-                     <pb n="63" facs="tcp:037754_0063_100F458AACD61A88"/>
+                     <pb n="63" facs="unknown:037754_0063_100F458AACD61A88"/>
                      <speaker>V. Sn.</speaker>
                      <p>Well, well, why d'ye put me in mind of that? If I had not the sweetest temper—</p>
                   </sp>
@@ -4819,7 +4820,7 @@ an opportunity of doing as much for him.</p>
                      <p>Behold her.
 <stage>(VON SNARL <hi>and</hi> TOTUM <hi>ex<g ref="char:EOLhyphen"/>press surprise.</hi>)</stage>
 In the fond and artless affections of her
-<pb n="64" facs="tcp:037754_0064_100F458CF0598C58"/>
+<pb n="64" facs="unknown:037754_0064_100F458CF0598C58"/>
 mind, while I recognized the image of her whom I ado<g ref="char:EOLhyphen"/>red, I read likewise, in forcible characters, my own duty —yes—this is my daughter, and, if I guess the heart a<g ref="char:EOLhyphen"/>right—this is my son.</p>
                   </sp>
                   <sp>
